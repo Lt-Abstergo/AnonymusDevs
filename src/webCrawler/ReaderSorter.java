@@ -2,7 +2,6 @@ package webCrawler;
 
 import javax.swing.*;
 import java.io.*;
-import java.util.Map;
 import java.util.Scanner;
 
 public class ReaderSorter {
